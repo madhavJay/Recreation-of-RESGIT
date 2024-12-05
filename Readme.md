@@ -9,7 +9,7 @@ Final MSE for recreation for 60 epochs 2-fold validation:
 - Training Time (on GPU): 10 minutes
 
 Final MSE for RESGIT model for 60 epochs 10-fold validation:
-- train loss: 0.21123446321227213
+- train loss: 0.18399048596899085
 - test MSE: 0.3042741045452384584
 
 Final MSE for recreation for 60 epochs 2-fold validation:
