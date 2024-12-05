@@ -12,7 +12,7 @@ Final MSE for RESGIT model for 60 epochs 10-fold validation:
 - train loss: 0.18399048596899085
 - test MSE: 0.3042741045452384584
 
-Final MSE for recreation for 60 epochs 2-fold validation:
+Final MSE for recreation for 60 epochs 10-fold validation:
 - train loss: 0.16768852225504816
 - test MSE: 0.2992
 - test MAE: 0.4090
