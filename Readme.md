@@ -17,3 +17,7 @@ Final MSE for recreation for 60 epochs 2-fold validation:
 - test MSE: 0.2992
 - test MAE: 0.4090
 - Training Time (on GPU): 72 minutes
+
+## Data loading
+	Input Data can be downloaded from the following link:
+	https://drive.google.com/drive/folders/1cdpyX-Qsp4ilhhf4Zay0FeG6X8cSXDyZ?usp=sharing
