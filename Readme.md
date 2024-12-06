@@ -21,3 +21,6 @@ Final MSE for recreation for 60 epochs 10-fold validation:
 ## Data loading
 	Input Data can be downloaded from the following link:
 	https://drive.google.com/drive/folders/1cdpyX-Qsp4ilhhf4Zay0FeG6X8cSXDyZ?usp=sharing
+
+## Surprising Results
+- Not Using tf gene matrix resulted in significantly lower MSE: 0.1198122859976002 (Recreation) 0.13046313508927265 (Actual Model), but also lower Spearman coefficients.
